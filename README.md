@@ -34,6 +34,7 @@ Replace the contents of your Laravel project's root `.htaccess` file with the fo
     RewriteCond %{REQUEST_URI} !^/public/
     RewriteRule ^(.*)$ /public/$1 [L]
 </IfModule>
+```apache
 
 # Remove "public" from URL and Redirect HTTP to HTTPS in Laravel
 
