@@ -36,8 +36,6 @@ Replace the contents of your Laravel project's root `.htaccess` file with the fo
 </IfModule>
 ```
 
-# Remove "public" from URL and Redirect HTTP to HTTPS in Laravel
-
 ## 2. Move Files to the Public Directory
 Move the `.htaccess` file from the public directory to the root of your Laravel project.
 
