@@ -65,10 +65,6 @@ To measure the impact of these optimizations:
 - [Laravel Documentation](https://laravel.com/docs)  
 - [Mod_Rewrite Apache Module](https://httpd.apache.org/docs/current/mod/mod_rewrite.html)  
 
----
-
-## 🙌 Contribute
-Feel free to open an issue or submit a pull request if you have improvements or new ideas for this repository.
 
 ---
 
@@ -83,13 +79,4 @@ If you find this repository helpful, give it a star ⭐ and share it with the co
 
 ---
 
-### Key Notes:
-1. **Primary Keywords Used**:  
-   - `Laravel remove public from URL`  
-   - `Laravel HTTPS redirect`  
-   - `Laravel .htaccess`  
-
-2. **Internal Linking**: Links to Laravel documentation and Apache mod_rewrite.  
-
-3. **Call-to-Actions (CTA)**: Encourages users to star the repo and contribute.
 
