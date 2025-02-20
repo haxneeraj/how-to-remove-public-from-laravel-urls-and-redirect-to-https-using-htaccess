@@ -19,7 +19,7 @@ This repository provides a simple and effective solution to **remove the "public
 
 ## 📜 Step-by-Step Guide  
 
-### 1. Update the `.htaccess` File  
+### 1. Create the `.htaccess` File in your main project directory 
 Replace the contents of your Laravel project's root `.htaccess` file with the following code:  
 
 ```apache
@@ -36,10 +36,7 @@ Replace the contents of your Laravel project's root `.htaccess` file with the fo
 </IfModule>
 ```
 
-## 2. Move Files to the Public Directory
-Move the `.htaccess` file from the public directory to the root of your Laravel project.
-
-## 3. Test Your URLs
+## 2. Test Your URLs
 Access your Laravel app using a clean URL, e.g., `https://example.com`.  
 Verify that both **HTTP-to-HTTPS redirection** and "public" removal work flawlessly.
 
